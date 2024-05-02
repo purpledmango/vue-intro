@@ -27,14 +27,9 @@ const count = ref(0)
   </p>
   <p>
     Install
-    <a href="https://github.com/vuejs/language-tools" target="_blank">Volar</a>
+    <a class="text-lg text-red-600" href="https://github.com/vuejs/language-tools" target="_blank">Volar</a>
     in your IDE for a better DX
   </p>
   <p class="read-the-docs">Click on the Vite and Vue logos to learn more</p>
 </template>
 
-<style scoped>
-.read-the-docs {
-  color: #888;
-}
-</style>
